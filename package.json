@@ -1,0 +1,24 @@
+{
+  "name": "arduino",
+  "version": "1.0.0",
+  "description": "My Arduino experiments ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalo123/arduino.git"
+  },
+  "author": "Gonzalo Ayuso <gonzalo123@gmail.com> (https://gonzalo123.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzalo123/arduino/issues"
+  },
+  "homepage": "https://github.com/gonzalo123/arduino#readme",
+  "dependencies": {
+    "johnny-five": "^0.10.3",
+    "nodebots-interchange": "^1.1.2",
+    "serialport": "^4.0.3"
+  }
+}
